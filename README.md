@@ -41,3 +41,4 @@ AR NFTs, or Augmented Reality Non-Fungible Tokens, are another innovative applic
 Innovative platforms and e-commerces can quickly populate their systems with complete product data by integrating the API provided by Wireshape with blockchain data, making it easier and more cost-effective to launch.
 
 By providing increased security, transparency and efficiency, Wireshape hopes to encourage decentralization and innovation in the consumer goods space which leads to a better and more equitable experience for all stakeholders.
+Welcome 
